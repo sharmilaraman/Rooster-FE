@@ -10,7 +10,7 @@ export default function Projects() {
     'AIS M&E Pte Ltd., Singapore',
     'Primus Tech Pte Ltd., Singapore',
     '2K Engineering Pte Ltd., Singpore',
-    'Power Engineering Pte Ltd., Singapore'
+    'Powan Engineering Pte Ltd., Singapore'
     
   ];
 
