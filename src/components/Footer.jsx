@@ -42,7 +42,7 @@ export default function Footer() {
             </span>
           </p>
           <p className="mb-2">
-            📍 5 Soon Lee Street, #06-28 Pioneer Point, Singapore 627607
+            📍 101 Kitchener Road #02-09 Jalan Besar Plaza, Singapore 208511
           </p>
           <p className="mb-2">
           📩
@@ -55,8 +55,8 @@ export default function Footer() {
           </p>
           <p className="mb-2">
             📞{" "}
-            <a href="tel:+6591364098" className="hover:underline">
-              +65 91364098
+            <a href="tel:+6561364098" className="hover:underline">
+              +65 61364098
             </a>
           </p>
         </div>

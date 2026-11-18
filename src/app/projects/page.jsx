@@ -2,15 +2,15 @@ import React from 'react';
 import { Building2 } from 'lucide-react';
 export default function Projects() {
   const companyClients = [
-    'Energy Engineering Contractors Pvt Ltd',
-    'Savils Property Management Pte Ltd',
-    'DIGIWORZ Pte Ltd',
-    'EBI Pacific Pte Ltd',
-    'G2 Ocean Singapore',
-    'Spawn Line Pte Ltd',
-    'Jland Engineering Pte Ltd',
-    'WSH Experts Pvt Ltd',
-    'AIS M&E Pte Ltd',
+    'Energy Engineering Contractors Pvt Ltd., Singapore',
+    'Savils Property Management Pte Ltd., Singapore',
+    'Labcon Contractor Pte Ltd., Singapore',
+    'DIGIWORZ Pte Ltd., Singapore',
+    'WSH Experts Pvt Ltd., Singapore',
+    'AIS M&E Pte Ltd., Singapore',
+    'Primus Tech Pte Ltd., Singapore',
+    '2K Engineering Pte Ltd., Singpore',
+    'Power Engineering Pte Ltd., Singapore'
     
   ];
 

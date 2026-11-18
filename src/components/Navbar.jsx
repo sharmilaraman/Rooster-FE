@@ -247,7 +247,7 @@ export default function Navbar() {
                   Email
                 </a>
                 <a
-                  href="tel:+6591364098"
+                  href="tel:+6561364098"
                   className="flex flex-1 items-center justify-center gap-2 rounded-full border border-white/15 bg-white/5 py-2.5 text-sm transition hover:border-orange-400 hover:bg-orange-400/10"
                 >
                   <Phone className="h-4 w-4 text-orange-400" />

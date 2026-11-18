@@ -51,7 +51,7 @@ export default function About() {
               </li>
               <li className="flex items-center gap-2">
                 <ShieldCheck size={20} className="text-orange-500" />
-                Company Certification of Biz safe 2
+                Company Certification of Biz safe 3
               </li>
             </ul>
           </div>
