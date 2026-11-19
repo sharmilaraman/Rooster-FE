@@ -47,10 +47,10 @@ export default function Footer() {
           <p className="mb-2">
           📩
             <a
-              href="mailto:roostertechsa@gmail.com"
+              href="mailto:roostertechsg@gmail.com"
               className="text-blue-300 hover:underline"
             >
-               roostertechsa@gmail.com
+               roostertechsg@gmail.com
             </a>
           </p>
           <p className="mb-2">
